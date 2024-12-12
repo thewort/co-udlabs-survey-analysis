@@ -1,7 +1,5 @@
 # Co-UD Labs Survey Analysis
 
-## Introduction
-
 This is the evaluation of a survey among wastewater associations conducted in the
 course of Co-UDlabs:
 
