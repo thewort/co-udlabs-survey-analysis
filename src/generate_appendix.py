@@ -25,6 +25,7 @@ Usage:
 2. Ensure question lists for each country are available in the `data` directory.
 3. Configure the `COUNTRIES` set if needed; leave it empty to process all countries.
 4. Run the script. Outputs are generated in the `data/output/appendix` directory.
+5. Copy and paste the contents of the country folder to Overleaf 
 
 Dependencies:
 - pandas

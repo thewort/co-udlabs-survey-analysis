@@ -9,7 +9,7 @@ This script processes survey data by performing the following tasks:
 7. Calculates and prints the average time to complete a survey.
 
 Usage:
-- Copy the env.sample file and save it as .env. Then get an access-token from https://ipinfo.io/ and add it
+- Copy the env.sample file and save it as .env. Then get an access-token from https://ipinfo.io/ and add it to .env
 - Run the script while ensuring you have the right raw survey file selected
 """
 
